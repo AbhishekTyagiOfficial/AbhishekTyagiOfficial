@@ -1,6 +1,7 @@
 # Hello, I'm Abhishek Tyagi! 🌟
 
 <img src="https://avatars.githubusercontent.com/u/121339909" alt="Profile Avatar" width="150">
+
 ## About Me
 
 👋 Hello, I'm Abhishek Tyagi, an experienced Automation and Manual Test Engineer with a passion for ensuring high-quality software. I'm focused on mastering testing technologies and delivering reliable, bug-free solutions.
