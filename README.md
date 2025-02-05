@@ -9,7 +9,7 @@
 - 🔭 Currently focusing on enhancing my automation and manual testing skills, exploring new testing frameworks.
 - 🌱 Learning something new every day in the world of software testing.
   -💬 Feel free to ask me about test automation, manual testing, or QA practices.
-- 📫 Reach me at abhishektyagi2918@gmail.com.a
+- 📫 Reach me at abhishektyagi2918@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love optimizing testing processes and exploring new testing tools.
 
